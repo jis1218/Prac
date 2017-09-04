@@ -19,6 +19,10 @@ public class HelloMain {
 		int f = 10%3;
 		double dou = 5.0%4.2;
 		
+		int show = 30;
+		int hello = 40;
+		
+		System.out.println(show+hello);
 		
 		System.out.println(a + " " + b + " " + c + " " + d + " " + e + " " + f + " " + dou);
 		
