@@ -11,6 +11,17 @@ public class HelloMain {
 	public static void main(String args[]){
 		System.out.println("Hello Java!!!");
 		
+		int a = 2+3;
+		int b = 2-3;
+		int c = 2*3; 
+		int d = 2/3;
+		int e = 5%3;
+		int f = 10%3;
+		double dou = 5.0%4.2;
+		
+		
+		System.out.println(a + " " + b + " " + c + " " + d + " " + e + " " + f + " " + dou);
+		
 	}
 	
 	
