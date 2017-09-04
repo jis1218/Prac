@@ -22,6 +22,8 @@ public class HelloMain {
 		int show = 30;
 		int hello = 40;
 		
+		String abc = "깃허브 연습하고 있음 빨리 집에 가고 싶음";
+		
 		System.out.println(show+hello);
 		
 		System.out.println(a + " " + b + " " + c + " " + d + " " + e + " " + f + " " + dou);

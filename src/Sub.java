@@ -25,6 +25,7 @@ public class Sub {
 		
 		//double i = g + h; //이렇게 계산하면 안된다.
 		double i = Double.sum(g, h);
+		System.out.println("나만 집에 가고 싶은건 아니지???");
 	}
 	
 	public String changeNumberToString(int number){
