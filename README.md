@@ -3,3 +3,4 @@
 show me the money
 Hey jude Don't make it bad
 Take a sad song and make it better
+Remember to let her into your heart then you can start
